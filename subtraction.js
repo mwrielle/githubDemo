@@ -1,5 +1,7 @@
+//commentaire : c'est une sous-straction
+
 function subtract(a, b) {
-  return '?';
+  return a-b;
 }
 
 calculate('subtraction', subtract);
